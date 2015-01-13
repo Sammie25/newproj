@@ -1,0 +1,21 @@
+{
+  "name": "ClassPro",
+  "version": "0.1.0",
+  "description": "My ticket to one million dollars from investors",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "classpro",
+    "student",
+    "database",
+    "blog"
+  ],
+  "author": "Sameetha Dessai (visitsam25@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.7",
+    "hbs": "^2.8.0"
+  }
+}
